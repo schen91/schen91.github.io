@@ -1,0 +1,22 @@
+p
+{
+    color: rgb(223, 62, 62);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(206, 211, 218);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(63, 172, 205);
+}
+
+html  {
+    background-color: cornsilk;
+}
